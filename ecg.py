@@ -57,4 +57,6 @@ plt.ylabel("Amplitude")
 plt.tight_layout()
 plt.show()
 
+# Run the full FIR/IIR ECG simulation after this plot window is closed.
+import index
 
